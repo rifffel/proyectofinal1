@@ -1,0 +1,46 @@
+.fondo1{
+background-image: url(.//img/fondo-pared-rosa.jpg);
+
+}
+.mover{
+    position: static;
+    margin: 150px;
+ margin-left: 50px;
+}
+.carrusel{
+    position: static;
+    border-style: solid;
+    margin:120px;
+    margin-left: 50px;
+}
+.timover{
+    position: relative;
+bottom: 70px;
+border-style: solid;
+margin-bottom: 50px;
+text-align: center;
+}
+.t1{
+    
+    padding: 10px;
+   border-bottom: solid;
+  border-color: rgb(242, 79, 201);
+}
+.t17{
+    padding: 10px;
+    border-bottom: solid;
+   border-color: rgb(242, 79, 201);
+}
+.table1{
+    margin: 50px;
+    margin-bottom: 10px;
+    border-width: 5px;
+    border-color: rgb(242, 79, 201);
+}
+.ti{
+ font-weight: 400;
+   padding-left: 50px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ text-decoration: underline;
+ text-transform: capitalize;
+}
