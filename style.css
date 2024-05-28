@@ -88,3 +88,18 @@ background-image: url(img/fondo-pared-rosa.jpg);
  text-decoration: underline;
  text-transform: capitalize;
 }
+.r2{
+    margin: 30px;
+    border-style: solid;
+}
+.r3{
+    margin: 30px;
+    border-style: solid;
+}
+.imgfon{
+    background-image: url(./img/fondo-pared-rosa.jpg);
+}
+.tr3{
+    margin: 30px;
+    border-style: solid;
+}
