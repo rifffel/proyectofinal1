@@ -1,3 +1,7 @@
+@media (min-width:320px) and (max-width: 1440px) {
+    /* Estilos para pantallas con ancho máximo de 576px */
+  }
+
 .fondo1{
 background-image: url(.//img/fondo-pared-rosa.jpg);
 
